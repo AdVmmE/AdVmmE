@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AdVmmE/AdVmmE/output/snake.svg](https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3oxMGc4bDMyeXRlZzM0ZGpsZm83NzdwbGpqNHJ0c2JuNjAxd3Y0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Snake animation" />
 
 ###
 
