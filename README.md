@@ -44,7 +44,7 @@
 
 ###
 
-<div style="text-align: center;">
+<div style="align: center;">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3oxMGc4bDMyeXRlZzM0ZGpsZm83NzdwbGpqNHJ0c2JuNjAxd3Y0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Snake animation" />
 </div>
 
