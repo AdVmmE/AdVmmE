@@ -73,9 +73,9 @@ I'm passionate about building web applications from the ground up, blending crea
 
 ## 📱 Connect With Me
 <div>
-  <a href="https://discord.gg/your-discord-invite"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://youtube.com/your-channel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://instagram.com/your-username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.gg/eyvhjnnj3E"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://www.youtube.com/channel/UCt3RIGyhvXtkJaM03jgkZ8g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/adam_isdaouene/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
 ---
