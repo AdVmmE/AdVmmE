@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">▪️🔧 Tech Stack:<br><br>✨Front-End: HTML5, CSS3, JavaScript, React.js, Angular, Bootstrap.<br>✨Back-End: Node.js, Express.js, PHP, Laravel, Python, Django.<br>✨Databases: MySQL, MONGO.<br>✨Version Control: Git, GitHub.<br><br>▪️💡Hobbies :<br><br>✨ Coding.<br>✨ Vedio Editing.<br>✨ Gaming.<br>✨ Learning New Technologies.</p>
+<p align="left">▪️🔧 Tech Stack:<br><br>✨Front-End: HTML5, CSS3, JavaScript, React.js, Bootstrap.<br>✨Back-End: Node.js, Express.js, PHP, Laravel<br>✨Databases: MySQL, MONGO.<br>✨Version Control: Git, GitHub.<br><br>▪️💡Hobbies :<br><br>✨ Coding.<br>✨ Vedio Editing.<br>✨ Gaming.<br>✨ Learning New Technologies.</p>
 
 ###
 
