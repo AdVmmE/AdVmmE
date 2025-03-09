@@ -1,66 +1,96 @@
-<h1 align="left">Hey 👋  What's Up?</h1>
-
-###
-
-<p align="left">My name is Adam Isdaouene (19 years old) and I'm a Full Stack Dev from Morocco .</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">▪️🔧 Tech Stack:<br><br>✨Front-End: HTML5, CSS3, JavaScript, React.js, Bootstrap.<br>✨Back-End: Node.js, Express.js, PHP, Laravel<br>✨Databases: MySQL, MONGO.<br>✨Version Control: Git, GitHub.<br><br>▪️💡Hobbies :<br><br>✨ Coding.<br>✨ Vedio Editing.<br>✨ Gaming.<br>✨ Learning New Technologies.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <h1>Hey 👋 What's Up?</h1>
+  <p>I'm <strong>Adam Isdaouene</strong>, a 19-year-old <em>Full Stack Developer</em> from Morocco 🇲🇦</p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 </div>
 
-###
+---
 
-<div style="align: center;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3oxMGc4bDMyeXRlZzM0ZGpsZm83NzdwbGpqNHJ0c2JuNjAxd3Y0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Snake animation" />
+## 🌟 About Me
+
+I'm passionate about building web applications from the ground up, blending creativity with code. Whether it's crafting sleek front-end interfaces or designing robust back-end systems, I love turning ideas into reality.
+
+### 🔧 Tech Stack
+<table>
+  <tr>
+    <td><strong>Front-End</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Back-End</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </td>
+  </tr>
+</table>
+
+### 💡 Hobbies
+- ✨ **Coding**: Turning caffeine into code, one line at a time.
+- ✨ **Video Editing**: Crafting stories through visuals.
+- ✨ **Gaming**: Exploring virtual worlds and epic adventures.
+- ✨ **Learning New Technologies**: Staying ahead in the tech game.
+
+---
+
+## 🛠️ I Code With
+<div>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/python.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/css3.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/bootstrap.svg" width="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/php.svg" width="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/git.svg" width="40" alt="Git"/>
 </div>
 
+---
 
-###
+## 📊 GitHub Stats
+![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-<div align="center">
-  <a href="https://discorapp.com/users/708060001570390099" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@erwin_9610" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/adam_isdaouene/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+---
+
+## 🎨 Snake Animation
+![Snake Animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📱 Connect With Me
+<div>
+  <a href="https://discord.gg/your-discord-invite"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://youtube.com/your-channel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/your-username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
-###
+---
+
+<p align="center">
+  <em>Thanks for stopping by! Let's build something amazing together. 🚀</em>
+</p>
