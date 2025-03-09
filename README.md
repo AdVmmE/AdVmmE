@@ -71,17 +71,6 @@ I'm passionate about building web applications from the ground up, blending crea
 
 ---
 
-## 📊 GitHub Stats
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🎨 Snake Animation
-![Snake Animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📱 Connect With Me
 <div>
   <a href="https://discord.gg/your-discord-invite"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
