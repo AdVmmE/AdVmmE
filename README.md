@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey 👋 What's Up?</h1>
-  <p>I'm <strong>Adam Isdaouene</strong>, a 19-year-old <em>Full Stack Developer</em> from Morocco 🇲🇦</p>
+  <p>I'm <strong>Adam Isdaouene</strong>, a <em>Full Stack Developer</em> from Morocco 🇲🇦</p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 </div>
 
