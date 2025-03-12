@@ -48,7 +48,7 @@ I'm passionate about building web applications from the ground up, blending crea
 </table>
 
 ### 💡 Hobbies
-- ✨ **Coding**: Turning caffeine into code, one line at a time.
+- ✨ **Coding**: Turning caffeine into code, one line at a Time.
 - ✨ **Video Editing**: Crafting stories through visuals.
 - ✨ **Gaming**: Exploring virtual worlds and epic adventures.
 - ✨ **Learning New Technologies**: Staying ahead in the tech game.
