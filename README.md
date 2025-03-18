@@ -110,5 +110,9 @@
       <img src="https://static.wikia.nocookie.net/logopedia/images/3/36/Vegas_Pro_17.svg/revision/latest/scale-to-width-down/1000?cb=20210624073234" alt="sonyvegas" width="65" height="65" />
       <br>Sony Vegas
     </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/fluency/100/vmware-workstation-player.png" alt="vmware-workstation-player" alt="vmware" width="65" height="65" />
+      <br>VMware
+    </td>
   </tr>
 </table>
