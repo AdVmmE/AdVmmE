@@ -49,11 +49,11 @@
       <br>React
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/html-5-icon.svg" alt="html5" width="65" height="65" />
+      <img src="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" alt="html5" width="65" height="65" />
       <br>HTML5
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="css3" width="65" height="65" />
+      <img src="https://camo.githubusercontent.com/a266b2536a9f4e1b8dc325ca89d9ce8e7f323c1e140f8b830a42f474a56e3b4c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" alt="css3" width="65" height="65" />
       <br>CSS3
     </td>
     <td align="center" width="100">
