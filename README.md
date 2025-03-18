@@ -1,46 +1,98 @@
-![Your Profile Image](placeholder-url)
+<div align="center">
+  <img src="./mario.gif" align="center" style="width: 1000px" />
+</div>
 
-# Hey 👋, I'm Adam Isdaouene
+###
 
-A Full Stack Developer from Morocco 🇲🇦
+<h1 align="center"><samp>Hi <img src="./assets/hello.gif"/> , I'm <a href="" target="_blank">Adam Isdaouene</a></samp></h1>
 
-🌟 **About Me**  
-I'm passionate about building web applications from the ground up, blending creativity with code. Whether it's crafting sleek front-end interfaces or designing robust back-end systems, I love turning ideas into reality.
+<h3><samp>A Full Stack Developer from Morocco 🇲🇦</samp></h3>
 
-🔧 **Tech Stack**  
-- **Front-End**: HTML5, CSS3, JavaScript, React, Bootstrap  
-- **Back-End**: Node.js, Express.js, PHP, Laravel  
-- **Databases**: MySQL, MongoDB  
-- **Version Control**: Git, GitHub  
+- 🚀 <samp>I’m working on building web applications from the ground up.</samp>
+- 📱 <samp>I’m currently learning **React Native**.</samp>
 
-💡 **Hobbies**  
-- ✨ **Coding**: Turning caffeine into code, one line at a time.  
-- ✨ **Video Editing**: Crafting stories through visuals.  
-- ✨ **Gaming**: Exploring virtual worlds and epic adventures.  
-- ✨ **Learning New Technologies**: Staying ahead in the tech game.  
+###
 
-## 🛠️ I Code With  
+<h3 align="center"><samp>Connect</samp></h3>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="65" height="65" />
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://x.com/your-twitter" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="65" height="65" />
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="mailto:your-email@example.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="65" height="65" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br><br>
+</div>
 
-| <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="24"/> | <img src="https://img.icons8.com/color/48/000000/react.png" alt="React" width="24"/> | <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="24"/> | <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="24"/> | <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="24"/> |
-|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| JavaScript                                                                                  | React                                                                               | HTML5                                                                               | CSS3                                                                                | Bootstrap                                                                                 |
+<h3 align="center"><samp>Languages and Tools:</samp> <img src="./assets/giphy.gif" width="23"> </h3>
 
-| <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="24"/> | <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="24"/> | <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="24"/> | <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel" width="24"/> | <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="24"/> |
-|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| Node.js                                                                                 | Express.js                                                                                | PHP                                                                              | Laravel                                                                               | Python                                                                                |
-
-| <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="24"/> | <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="24"/> | <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="24"/> | <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="24"/> |
-|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| MySQL                                                                               | MongoDB                                                                                 | Git                                                                              | GitHub                                                                                |
-
-## 📱 Connect With Me  
-
-[<img src="https://img.icons8.com/color/48/000000/discord.png" alt="Discord" width="24"/>][discord]  
-[<img src="https://img.icons8.com/color/48/000000/youtube.png" alt="YouTube" width="24"/>][youtube]  
-[<img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram" width="24"/>][instagram]  
-
-Thanks for stopping by! Let's build something amazing together. 🚀
-
-[discord]: [Your Discord URL]
-[youtube]: [Your YouTube URL]
-[instagram]: [Your Instagram URL]
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/html-5-icon.svg" alt="html5" width="65" height="65" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="css3" width="65" height="65" />
+      <br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
+      <br>Express.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
+      <br>Laravel
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
