@@ -17,18 +17,18 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="65" height="65" />
+      <a href="[Your YouTube URL]" target="_blank">
+        <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="65" height="65" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="https://x.com/your-twitter" target="_blank">
-        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="65" height="65" />
+      <a href="[Your Discord URL]" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="65" height="65" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="mailto:your-email@example.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="65" height="65" />
+      <a href="[Your Instagram URL]" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="65" height="65" />
       </a>
     </td>
   </tr>
@@ -93,6 +93,10 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
       <br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+      <br>Postman
     </td>
   </tr>
 </table>
