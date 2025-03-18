@@ -9,7 +9,7 @@
 <h3><samp>A Full Stack Developer 🇲🇦</samp></h3>
 
 - 🚀 <samp>I’m working on building web applications from the ground up.</samp>
-- 📱 <samp>I’m currently learning **mern stuck**.</samp>
+- 📱 <samp>I’m currently learning **MERN stack**.</samp>
 
 ###
 
@@ -61,6 +61,10 @@
       <br>Bootstrap
     </td>
     <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="Material UI" />
+      <br>Material UI
+    </td>
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
       <br>Node.js
     </td>
@@ -72,12 +76,12 @@
       <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
       <br>PHP
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
       <br>Laravel
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
       <br>MySQL
@@ -97,6 +101,14 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
       <br>Postman
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/son vegas/son vegas-original.svg" alt="sonyvegas" width="65" height="65" />
+      <br>Sony Vegas
     </td>
   </tr>
 </table>
