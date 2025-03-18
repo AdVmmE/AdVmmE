@@ -18,7 +18,7 @@
   <tr>
     <td align="center" width="100">
       <a href="https://www.youtube.com/channel/UCt3RIGyhvXtkJaM03jgkZ8g" target="_blank">
-        <img src="https://commons.wikimedia.org/wiki/File:YouTube_full-color_icon_(2017).svg" alt="YouTube" width="65" height="65" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="65" height="65" />
       </a>
     </td>
     <td align="center" width="100">
