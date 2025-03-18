@@ -17,17 +17,17 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="https://www.youtube.com/@adamisdaouene" target="_blank">
-        <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="65" height="65" />
+      <a href="https://www.youtube.com/channel/UCt3RIGyhvXtkJaM03jgkZ8g" target="_blank">
+        <img src="https://commons.wikimedia.org/wiki/File:YouTube_full-color_icon_(2017).svg" alt="YouTube" width="65" height="65" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="https://discord.gg/adamisdaouene" target="_blank">
+      <a href="https://discord.gg/eyvhjnnj3E" target="_blank">
         <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="65" height="65" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="https://www.instagram.com/adamisdaouene" target="_blank">
+      <a href="https://www.instagram.com/adam_isdaouene/" target="_blank">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="65" height="65" />
       </a>
     </td>
