@@ -1,85 +1,46 @@
-<div align="center">
-  <h1>Hey 👋 What's Up?</h1>
-  <p>I'm <strong>Adam Isdaouene</strong>, a <em>Full Stack Developer</em> from Morocco 🇲🇦</p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
-</div>
+![Your Profile Image](placeholder-url)
 
----
+# Hey 👋, I'm Adam Isdaouene
 
-## 🌟 About Me
+A Full Stack Developer from Morocco 🇲🇦
 
+🌟 **About Me**  
 I'm passionate about building web applications from the ground up, blending creativity with code. Whether it's crafting sleek front-end interfaces or designing robust back-end systems, I love turning ideas into reality.
 
-### 🔧 Tech Stack
-<table>
-  <tr>
-    <td><strong>Front-End</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Back-End</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Version Control</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-    </td>
-  </tr>
-</table>
+🔧 **Tech Stack**  
+- **Front-End**: HTML5, CSS3, JavaScript, React, Bootstrap  
+- **Back-End**: Node.js, Express.js, PHP, Laravel  
+- **Databases**: MySQL, MongoDB  
+- **Version Control**: Git, GitHub  
 
-### 💡 Hobbies
-- ✨ **Coding**: Turning caffeine into code, one line at a Time.
-- ✨ **Video Editing**: Crafting stories through visuals.
-- ✨ **Gaming**: Exploring virtual worlds and epic adventures.
-- ✨ **Learning New Technologies**: Staying ahead in the tech game.
+💡 **Hobbies**  
+- ✨ **Coding**: Turning caffeine into code, one line at a time.  
+- ✨ **Video Editing**: Crafting stories through visuals.  
+- ✨ **Gaming**: Exploring virtual worlds and epic adventures.  
+- ✨ **Learning New Technologies**: Staying ahead in the tech game.  
 
----
+## 🛠️ I Code With  
 
-## 🛠️ I Code With
-<div>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/python.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/css3.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/bootstrap.svg" width="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/php.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/git.svg" width="40" alt="Git"/>
-</div>
+| <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="24"/> | <img src="https://img.icons8.com/color/48/000000/react.png" alt="React" width="24"/> | <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="24"/> | <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="24"/> | <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="24"/> |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| JavaScript                                                                                  | React                                                                               | HTML5                                                                               | CSS3                                                                                | Bootstrap                                                                                 |
 
----
+| <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="24"/> | <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="24"/> | <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="24"/> | <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel" width="24"/> | <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="24"/> |
+|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Node.js                                                                                 | Express.js                                                                                | PHP                                                                              | Laravel                                                                               | Python                                                                                |
 
-## 📱 Connect With Me
-<div>
-  <a href="https://discord.gg/eyvhjnnj3E"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://www.youtube.com/channel/UCt3RIGyhvXtkJaM03jgkZ8g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.instagram.com/adam_isdaouene/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</div>
+| <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="24"/> | <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="24"/> | <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="24"/> | <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="24"/> |
+|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| MySQL                                                                               | MongoDB                                                                                 | Git                                                                              | GitHub                                                                                |
 
----
+## 📱 Connect With Me  
 
-<p align="center">
-  <em>Thanks for stopping by! Let's build something amazing together. 🚀</em>
-</p>
+[<img src="https://img.icons8.com/color/48/000000/discord.png" alt="Discord" width="24"/>][discord]  
+[<img src="https://img.icons8.com/color/48/000000/youtube.png" alt="YouTube" width="24"/>][youtube]  
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram" width="24"/>][instagram]  
+
+Thanks for stopping by! Let's build something amazing together. 🚀
+
+[discord]: [Your Discord URL]
+[youtube]: [Your YouTube URL]
+[instagram]: [Your Instagram URL]
