@@ -6,10 +6,10 @@
 
 <h1 align="center"><samp>Hi <img src="./assets/hello.gif"/> , I'm <a href="" target="_blank">Adam Isdaouene</a></samp></h1>
 
-<h3><samp>A Full Stack Developer from Morocco 🇲🇦</samp></h3>
+<h3><samp>A Full Stack Developer 🇲🇦</samp></h3>
 
 - 🚀 <samp>I’m working on building web applications from the ground up.</samp>
-- 📱 <samp>I’m currently learning **React Native**.</samp>
+- 📱 <samp>I’m currently learning **mern stuck**.</samp>
 
 ###
 
