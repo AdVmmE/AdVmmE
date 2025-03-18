@@ -17,17 +17,17 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="[Your YouTube URL]" target="_blank">
+      <a href="https://www.youtube.com/@adamisdaouene" target="_blank">
         <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="65" height="65" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="[Your Discord URL]" target="_blank">
+      <a href="https://discord.gg/adamisdaouene" target="_blank">
         <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="65" height="65" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="[Your Instagram URL]" target="_blank">
+      <a href="https://www.instagram.com/adamisdaouene" target="_blank">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="65" height="65" />
       </a>
     </td>
@@ -107,7 +107,7 @@
       <br>REST API
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/son vegas/son vegas-original.svg" alt="sonyvegas" width="65" height="65" />
+      <img src="https://static.wikia.nocookie.net/logopedia/images/3/36/Vegas_Pro_17.svg/revision/latest/scale-to-width-down/1000?cb=20210624073234" alt="sonyvegas" width="65" height="65" />
       <br>Sony Vegas
     </td>
   </tr>
