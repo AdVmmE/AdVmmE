@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center"><samp>Hi <img src="./assets/hello.gif"/> , I'm <a href="" target="_blank">Adam Isdaouene</a></samp></h1>
+<h1 align="center"><samp>Hi <img src="./assets/hello.gif"/> , I'm >Adam Isdaouene</samp></h1>
 
 <h3><samp>A Full Stack Developer 🇲🇦</samp></h3>
 
