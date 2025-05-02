@@ -96,7 +96,7 @@
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br>Git
+      <br>GIT
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
