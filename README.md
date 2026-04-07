@@ -8,8 +8,6 @@
 
 <h3><samp>A Full Stack Developer 🇲🇦</samp></h3>
 
-- 🚀 <samp>I’m working on building web applications from the ground up.</samp>
-- 📱 <samp>I’m currently learning **MERN stack**.</samp>
 
 ###
 
